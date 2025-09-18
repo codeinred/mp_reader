@@ -13,7 +13,7 @@ What does this mean?
 When a program is executed with mem_profile, we can see the number of bytes
 allocated by types within the program.
 
-![alt text](images/objects_output.png)
+![alt text](https://raw.githubusercontent.com/codeinred/mp_reader/main/images/objects_output.png)
 
 Above is some sample output, produced by the analyzer (mp_reader, this project).
 
@@ -24,11 +24,11 @@ of translation units.
 For instance, here's an output of type-level stats from profiling an FTXUI demo
 application:
 
-![alt text](images/ftxui-demo.png)
+![alt text](https://raw.githubusercontent.com/codeinred/mp_reader/main/images/ftxui-demo.png)
 
 And here's output from profiling CMake:
 
-![alt text](images/cmake-demo-types.png)
+![alt text](https://raw.githubusercontent.com/codeinred/mp_reader/main/images/cmake-demo-types.png)
 
 For more information, see the
 [mem_profile repo](https://github.com/codeinred/mem_profile)!

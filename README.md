@@ -15,8 +15,7 @@ allocated by types within the program.
 
 ![alt text](images/objects_output.png)
 
-Above is some sample output, produced by the analyzer. This output comes from a
-profile of [`examples/src/objects.cpp`](examples/src/objects.cpp).
+Above is some sample output, produced by the analyzer (mp_reader, this project).
 
 This is a toy example, but mem_profile is designed for use with complex
 workloads, and has been tested on projects involving hundreds or even thousands
